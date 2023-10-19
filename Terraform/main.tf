@@ -1,4 +1,9 @@
 terraform {
+  backend "azure"{}
+  }
+
+
+terraform {
 
   required_providers {
 
